@@ -2,7 +2,7 @@
   "configVersion": 1,
   "map": {
     "enabled": true,
-    "tileUrlTemplate": "https://api.maptiler.com/maps/streets-v2/256/{z}/{x}/{y}.png?key=NQiwg7a5rsa5gqT840Nm",
+    "tileUrlTemplate": "https://api.maptiler.com/maps/streets-v2/256/{z}/{x}/{y}.png?key=test",
     "attributionText": "© MapTiler © OpenStreetMap contributors",
     "messageJa": "",
     "messageEn": ""
